@@ -59,22 +59,13 @@ h3 {
   margin: 0 0 30px;
   overflow: auto;
   color: #ffffff;
-  background: #ffffff;
-  border-bottom: 2px solid #cccccc;
+  background: #f8f8ff;
+  border-bottom: 2px solid #dddddd;
 }
 
 #logo {
   float: left;
-  width: 500px;
-  height: 90px;
-  font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 30px;
-  font-weight: 700;
-  line-height: 90px;
-  color: #ffffff;
-  text-align: center;
-  text-decoration: none;
-  background: #246ECD;
+  height: 100px;
 }
 
 nav {
@@ -87,9 +78,9 @@ nav a {
   padding-left: 15px;
   margin-left: 15px;
   line-height: 18px;
-  color: #999;
+  color: #0085fb;
   text-decoration: none;
-  border-left: 1px solid #efefef;
+  border-left: 1px solid #606060;
 }
 
 nav a:first-child {
@@ -130,7 +121,7 @@ h3, h2 {
   max-width: 960px;
   padding: 30px;
   margin: 0 0 40px;
-  background: #ffffff;
+  background: #f8f8ff;
   border: 1px solid #dddddd;
 }
 
