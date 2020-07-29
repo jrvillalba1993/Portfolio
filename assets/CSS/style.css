@@ -3,7 +3,7 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777777;
-  background: url("../Images/hitech.jpg");
+  background: url("../Images/white_leather.png");
 }
 
 * {
@@ -59,8 +59,9 @@ h3 {
   margin: 0 0 30px;
   overflow: auto;
   color: #ffffff;
-  background: #f8f8ff;
-  border-bottom: 2px solid #dddddd;
+  background-image: url("../Images/header.png");
+  border-bottom: 4px solid #dddddd;
+
   
 }
 
@@ -118,6 +119,7 @@ h3, h2 {
 #main-container {
   padding-top: 130px;
   min-height: calc(100vh - 70px);
+  opacity: 100%;
 }
 
 .main-section {
@@ -126,8 +128,8 @@ h3, h2 {
   max-width: 960px;
   padding: 30px;
   margin: 0 0 40px;
-  background: #f8f8ff;
-  border: 1px solid #dddddd;
+  background-image: url("../Images/header.png");
+  border: 3px solid #dddddd;
 }
 
 /* portfolio page */
