@@ -87,6 +87,10 @@ nav a:first-child {
   border-left: 0 none;
 }
 
+nav a:hover {
+  color: #89bdff;
+}
+
 /* footer */
 
 footer {
@@ -144,6 +148,11 @@ h3, h2 {
   border: 0 none;
   opacity: 0.8;
 }
+.work img:hover {
+  opacity: 0.3;
+  filter: alpha(opacity=30);
+}
+
 
 .work h3 {
   position: absolute;
@@ -234,7 +243,11 @@ input[type=submit] {
 		width: 30%;
 		padding-left: 0;
 		margin-left: 0;
-	}
+  }
+  nav a:hover {
+    color: #89bdff;
+  }
+  
 }
 /* 768px Screen*/
 @media only screen and (max-width: 768px) {
